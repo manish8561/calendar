@@ -1,5 +1,5 @@
 # calendar
-google calendar with calendar js
+google calendar in core php
 <br>
 Author: Manish Sharma<br>
 email:manish.1986200821@gmail.com
